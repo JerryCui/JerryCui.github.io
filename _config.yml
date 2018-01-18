@@ -1,0 +1,13 @@
+title: J.C sth
+author: J.C
+email: woai122@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+#Build Settings
+permalink: /:categories/:title/
+ 
+
+twitter_username: Jerry.Cui 
+github_username:  JerryCui
+
+sass:
+    style: compressed
